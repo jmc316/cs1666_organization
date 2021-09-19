@@ -40,11 +40,13 @@ https://github.com/KalebRaymond/CS1666-Tactical-RPG
 
 Castle Quest is a tactical RPG in the same style as games like Fire Emblem and Advance Wars. The game will feature a single player mode, where the player will face against an enemy AI, and a multiplayer mode, which will be identical to the single player but with the enemy AI replaced by another player.
 
+At the start of the game, both teams start in opposite corners of the map. Both teams start with a castle and a few units spawned around their castle. Units come in three classes: melee, archer, and mage. Each class has unique stats, including move distance, attack range, attack damage, etc. Teams take turns moving their units, trying to reach the other team's castle and defeating enemy units while also protecting their own castle and units. The game continues until one of the teams captures the other's castle (by placing a unit over top the castle for 3 consecutive turns) or defeats all of the other's units.
+
 * Grid-based Tactical RPG across one large map
     * Top-down view, at least 48x48 tiles
-* Opposing teams start in opposite corners of map near their team's castle
 * Third, AI-controlled team (barbarians) located throughout map in small groups
-    * Either the player or the enemy can defeat them to gain additional party members
+    * Either the player or the enemy can defeat them for a chance of gaining additional party members
+    * Barbarians are limited to melee & archer classes
 * Each team (player 1, player 2/enemy AI, and barbarians) takes turns with the ability to move and attack opposing units within attack range
 * Game continues until either player or enemy defeats the other
     * Defeating all of the other team’s units (Total Party Kill)
