@@ -38,7 +38,7 @@ https://github.com/KalebRaymond/CS1666-Tactical-RPG
 
 ## Game Description
 
-Castle Quest is a tactical RPG in the same style as games like Fire Emblem and Advance Wars.
+Castle Quest is a tactical RPG in the same style as games like Fire Emblem and Advance Wars. The game will feature a single player mode, where the player will face against an enemy AI, and a multiplayer mode, which will be identical to the single player but with the enemy AI replaced by another player.
 
 * Grid-based Tactical RPG across one large map
     * Top-down view, at least 48x48 tiles
@@ -57,15 +57,15 @@ Castle Quest is a tactical RPG in the same style as games like Fire Emblem and A
 ### AI
 
 * Simple implementation for barbarians (melee and ranged with no magic)
-    * Pursues ttacks any non-barbarian unit that comes into aggro range
+    * Pursues and attacks any non-barbarian unit that comes into aggro range
     * Otherwise remains idle
 * More complicated enemy AI for singleplayer (melee, archer, and magic)
     * Enemy AI must decide between pursuing the player or attacking barbarians to gain additional units
-
+    * Enemy must pursue the player's castle while also strategically keeping some units close to the enemy castle to defend it.
 
 ### Networking
 
-* Upon selecting the multiplayer game mode from the menu, the player will be able to enter a server join code.
+* Upon selecting the multiplayer game mode from the menu, players can either create a room to generate a join code, or enter a code given to them by another player.
 * When two players have connected to a server, they will enter a game on opposite sides of the map where they will try to defeat the other player.
     * The second human player replaces the enemy AI of the singleplayer mode 
 
@@ -76,7 +76,7 @@ Castle Quest is a tactical RPG in the same style as games like Fire Emblem and A
 * Basic movement implemented for player and barbarians
     * Player: Clicking on a unit and then clicking on any tile teleports the unit to that tile. After moving, a context menu appears that allows you to end the unit's turn.
     * Barbarian AI: If at least one player unit is within a certain range, barbarian units will move towards the closest player unit. Otherwise, the barbarian unit will not move.
-    * Enemy team will simply skip turn
+    * Enemy AI team will simply skip turn
 * Implement basic turn order functionality
     * Turn order goes player -> enemy AI -> barbarians, continues indefinitely 
     * “End turn” button for player skips remaining units & continues the game
@@ -87,8 +87,10 @@ Castle Quest is a tactical RPG in the same style as games like Fire Emblem and A
 ## Final Goals
 
 * 20% - Completed AI for enemy team & barbarians
-    * Barbarians roam within a small radius until a player or enemy enters within their aggro range, upon which, depending on unit type and number of other barbarians, the barbarian will pursue the player/enemy and attack them
-    * Enemy AI will be more advanced. Enemies should choose whether to prioritize attacking barbarians that are out of the way versus going directly for the player.
+    * Barbarians roam within a small radius until a player or enemy enters within their aggro range, upon which the barbarian will pursue the player/enemy and attack them
+    * Enemy AI will be more advanced. 
+    	* Enemy should choose whether to prioritize attacking barbarians that are out of the way versus going directly for the player.
+    	* Enemy should reserve some units to defend their castle rather than go after the player's castle
 * 20% - Functioning multiplayer
     * Joinable rooms with keys
     * Communicate turn order & character actions
