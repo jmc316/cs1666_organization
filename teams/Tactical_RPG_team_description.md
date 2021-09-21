@@ -67,9 +67,11 @@ At the start of the game, both teams start in opposite corners of the map. Both 
 
 ### Networking
 
+* A server application running on a hosted server application will be running to provide multiplayer support.
 * Upon selecting the multiplayer game mode from the menu, players can either create a room to generate a join code, or enter a code given to them by another player.
-* When two players have connected to a server, they will enter a game on opposite sides of the map where they will try to defeat the other player.
-    * The second human player replaces the enemy AI of the singleplayer mode 
+    * When creating a room, the server will provide a join code to the player to share with their opponent.
+* When two players have connected to a server, they will be entered into a game on opposite sides of the map, where they will try to defeat the other player.
+    * The second human player replaces the enemy AI of the singleplayer mode.
 
 
 ## Midterm Goals
