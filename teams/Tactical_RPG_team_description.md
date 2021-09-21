@@ -59,11 +59,24 @@ At the start of the game, both teams start in opposite corners of the map. Both 
 ### AI
 
 * Simple implementation for barbarians (melee and ranged with no magic)
-    * Pursues and attacks any non-barbarian unit that comes into aggro range
-    * Otherwise remains idle
+    	* Pursues and attacks any non-barbarian unit that comes into aggro range
+    	* Otherwise remains idle
 * More complicated enemy AI for singleplayer (melee, archer, and magic)
-    * Enemy AI must decide between pursuing the player or attacking barbarians to gain additional units
-    * Enemy must pursue the player's castle while also strategically keeping some units close to the enemy castle to defend it.
+	* More complicated enemy AI for singleplayer (melee, archer, and magic)
+    	* Enemy AI must decide between pursuing the player or attacking barbarians to gain additional units
+    	* Enemy must pursue the player's castle while also strategically keeping some units close to the enemy castle to defend it.
+		* Possible implementations include Minmax with Alpha/Beta Pruning, or a Finite State Machine
+		* Enemy AI will take many factors of the game state into account into order to score each potential move
+			* Health of each unit
+    		* Attack range of each unit
+    		* Damage output of each unit
+    		* How close each unit is to a barbarian
+    		* How close each unit is to a player unit
+    		* The player unit's health, damage output, class, etc.
+    		* How much their castle is currently threatened
+    		* How much the player's castle in currently threatened
+	* We may have to implement multithreading/parallel programming in order to achieve an acceptable runtime
+
 
 ### Networking
 
