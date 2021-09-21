@@ -59,8 +59,8 @@ At the start of the game, both teams start in opposite corners of the map. Both 
 ### AI
 
 * Simple implementation for barbarians (melee and ranged with no magic)
-    	* Pursues and attacks any non-barbarian unit that comes into aggro range
-    	* Otherwise remains idle
+	* Pursues and attacks any non-barbarian unit that comes into aggro range
+	* Otherwise remains idle
 * More complicated enemy AI for singleplayer (melee, archer, and magic)
 	* Enemy AI must decide between pursuing the player or attacking barbarians to gain additional units
 	* Enemy must pursue the player's castle while also strategically keeping some units close to the enemy castle to defend it.
