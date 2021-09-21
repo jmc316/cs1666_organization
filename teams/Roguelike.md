@@ -36,8 +36,8 @@ https://github.com/dannystirl/CS-1666-Project
 		* Github Username: victormui
 
 ## Game Description
+The game will be a Top-Down Roguelike shooter game with 8-directional movement. The player will be a slime that can absorb abilities, and will navigate through a procedurally generated maze to get to a boss. The hud will display the player’s current health, mana, and gold. There will be 3 levels of the dungeon, each level getting larger and more difficult. For each level, there will be a boss room, some obtainable upgrades. and a maze of rooms that have enemies, or upgrades. The player will be forced to think consciously and intelligently about where to travel in the level, which abilities to absorb, how to unlock secret rooms, and how to fight the boss.
 
-The game will be a Top-Down Roguelike shooter game with 8-directional movement. The player will be a slime that can absorb enemy's abilities or weapons, and will navigate through a procedurally generated maze to get to a boss. There will be 3 levels of the dungeon, each level getting larger and more difficult. For each level, there will be a boss room, some obtainable upgrades. and a maze of rooms that have enemies, puzzles, or upgrades. The player will be forced to think consciously and intelligently about where to travel in the level, which abilities to absorb, how to unlock secret areas, and how to fight the boss.
 
 
 ## Advanced Topic Description
@@ -52,21 +52,32 @@ Description: A physics engine which will simulate rigid body physics with fricti
 
 ## Midterm Goals
 
-* Fully playable, simplified first stage
+* Fully playable, simplified first stage, the first stage will be 20 tiles x 20 tiles, with each tile be 64 pixels
 * Sprites (Player + Enemies) displayed on screen
-* Health system + HUD
-* Base-level abilities functional
+    * 1 simple barrel, 1 enemy
+* Implement a health/damage system
+* Display a HUD that contains:
+    * Character health + mana bar
+    * Currently equipped weapon and abilities
+    * Currently held gold (currency)
+* Base-level abilities functional:
+    * Character melee attack that damages enemies
+    * Enemy projectile attack that damages character
+ 
+
 
 ## Final Goals
 
-* 15%: Implement absorbing mechanic
-* 25%: Implement procedural generation
 * 10% 2-3 weapons and abilities and 5 enemies
-* 25%: Add the rigid body simulation
+* 15%: Implement a mechanic where when an enemy is destroyed the player can acquire abilities or stat buff by absorbing them
+* 25%: Implement procedural generation
+* 10%: Add the rigid body physics collision and force vector simulation
+* 5%: Add mass and friction values to all objects which will have inertia
+* 10%: Add projectile ricochet/bouncing and friction and barrels which explode sending objects which bounce and deal damage. 
 
 
 ## Stretch Goals
 
-* Add in an extra character class
-* Add a persistent currency for unlocks that carries over between runs
+* Add in an extra warrior class which does 10% more damage with attacks but has less mana and health. Also has a unique skill to the class. (Other classes will follow the same format of +stat, -stat, and unique skill).
+* Add a persistent currency for unlocks that carries over between runs such as hats that give starting stat modifiers and a more powerful starting weapon.
 
