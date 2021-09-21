@@ -72,7 +72,7 @@ Description: A physics engine which will simulate rigid body physics with fricti
 ## Final Goals
 
 * 10% 2-3 weapons and abilities and 5 enemies
-* 15%: Implement a mechanic where when an enemy is destroyed the player can acquire abilities or stat buff by absorbing their body. This buff will be different depending on the type of enemy. 
+* 15%: Implement a mechanic where when an enemy is destroyed the player can acquire abilities or stat buff by absorbing their body. This buff will be different depending on the type of enemy. Essentially, the destroyed enemys will be items after they are defeated. 
 * 10% Create a set of diverse rooms the player can explore. For example, regular rooms with enemies, a shop, a room to the next level, and a boss room. We will use a variant of  [this](http://www.roguebasin.com/index.php/Template_Dungeon_themeing/generation) algorithm to fill each room with enemies, items, and obstacles.
 * 15%: Implement procedural generation for the rooms and levels. From a starting room, players will be able to search through a tree-like map to find the boss. Each room will have at most 4 doors, and the layout will be generated using a variation of [this](http://www.roguebasin.com/index.php?title=Dungeon-Building_Algorithm#The_algorithm) algorithm. 
 * 10%: Add the rigid body physics collision and force vector simulation
