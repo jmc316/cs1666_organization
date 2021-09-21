@@ -8,32 +8,32 @@ https://github.com/KalebRaymond/CS1666-Tactical-RPG
 * Advanced Topic Subteam 1: AI
 
 	* Kaleb Raymond
-        * Pitt ID: 4268953
+        * Pitt ID: kwr7
         * Github Username: KalebRaymond
     * Alexander Kwiatkowski
-        * Pitt ID: 4363559
+        * Pitt ID: ajk175
         * Github Username: AlexKwi
     * Colin Woelfel
-        * Pitt ID: 4352147
+        * Pitt ID: cjw102
         * Github Username: cjw102
     * Jared Carl
-        * Pitt ID: 4190195
+        * Pitt ID: jmc316
         * Github Username: jmc316
 
 
 * Advanced Topic Subteam 2: Networking
 
 	* Bianca Finamore    
-        * Pitt ID: 4297373
+        * Pitt ID: amf192
         * Github Username: BiancaFinamore
     * Jake Baumbaugh
-        * Pitt ID: 4180882
+        * Pitt ID: jtb122
         * Github Username: JakeBaumbaugh
     * Shane Josapak
-        * Pitt ID: 4266181
+        * Pitt ID: shj63
         * Github Username: shjosa
     * James Fenn
-        * Pitt ID: 4262575
+        * Pitt ID: jaf208
         * Github Username: fennifith
 
 ## Game Description
