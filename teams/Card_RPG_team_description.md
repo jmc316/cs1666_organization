@@ -84,6 +84,7 @@ https://github.com/Jake-Bon/card-rpg
       * 7 defend cards
       * 4 heal cards
       * 3 distinct status effects
+      * Only 2 or 3 attacks will be synergistic, and will function much like the reload/shoot cards that we included in our presentation
     * If a player wins a battle, they will also receive one card from the enemy’s deck.
 * 5%: User Interface (Menus, etc)
     * Battle interface - HP and energy displays, card display, status information, and button to end turn
