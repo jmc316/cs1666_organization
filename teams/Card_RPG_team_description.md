@@ -88,7 +88,7 @@ https://github.com/Jake-Bon/card-rpg
     * If a player wins a battle, they will also receive one card from the enemy’s deck.
 * 5%: User Interface (Menus, etc)
     * Battle interface - HP and energy displays, card display, status information, and button to end turn
-* Main menu - Start, options
+    * Main menu - Start, options
     * Pause menu - Options, quit
     * Options menu - Volume settings
 * 10%: Overworld
