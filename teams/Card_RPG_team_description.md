@@ -71,7 +71,7 @@ https://github.com/Jake-Bon/card-rpg
     * 2 status attack cards
     * 3 defend cards
     * 2 heal cards
-* 2 distinct status effects
+    * 2 distinct status effects
 * Scripted Enemy
     * There will be a scripted boss fight. This fight will simply show how the combat system will work.
 
@@ -80,12 +80,12 @@ https://github.com/Jake-Bon/card-rpg
 * 25%: Card Based Battle System
     * Battle system should function without issue - The system of utilizing cards should be understandable and functional, while all traditional battle elements (win/lose conditions, hp/energy etc.) should work as expected.
     * Expands on midterm goals, now with:
-* 12 standard attack cards
-* 6 status attack cards
-* 7 defend cards
-* 4 heal cards
-* 3 distinct status effects
-*If a player wins a battle, they will also receive one card from the enemy’s deck.
+      * 12 standard attack cards
+      * 6 status attack cards
+      * 7 defend cards
+      * 4 heal cards
+      * 3 distinct status effects
+    *If a player wins a battle, they will also receive one card from the enemy’s deck.
 * 5%: User Interface (Menus, etc)
     * Battle interface - HP and energy displays, card display, status information, and button to end turn
 * Main menu - Start, options
