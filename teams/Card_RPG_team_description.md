@@ -85,7 +85,7 @@ https://github.com/Jake-Bon/card-rpg
       * 7 defend cards
       * 4 heal cards
       * 3 distinct status effects
-    *If a player wins a battle, they will also receive one card from the enemy’s deck.
+    * If a player wins a battle, they will also receive one card from the enemy’s deck.
 * 5%: User Interface (Menus, etc)
     * Battle interface - HP and energy displays, card display, status information, and button to end turn
 * Main menu - Start, options
