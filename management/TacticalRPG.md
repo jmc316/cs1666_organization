@@ -1,7 +1,7 @@
 # CS1666 TacticalRPG Management weeks
 
 1. 9/15 - 9/21
-	* Manager: NAME
+	* Manager: Kaleb Raymond
 	* Goals:
 		1. Get project description and goals approved
 1. 9/29 - 10/5
