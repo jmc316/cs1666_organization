@@ -74,7 +74,6 @@ At the start of the game, both teams start in opposite corners of the map. Both 
     		* The player unit's health, damage output, class, etc.
     		* How much their castle is currently threatened
     		* How much the player's castle in currently threatened
-	* We may have to implement multithreading/parallel programming in order to achieve an acceptable runtime
 
 
 ### Networking
