@@ -1,4 +1,3 @@
-//COPIED TO GITHUB
 # Builder RPG
 
 ## Canonical game repo URL:
