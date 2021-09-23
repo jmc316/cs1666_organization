@@ -1,4 +1,4 @@
-# Builder RPG
+# Card RPG
 
 ## Canonical game repo URL:
 
