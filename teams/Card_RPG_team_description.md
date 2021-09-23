@@ -51,7 +51,7 @@ https://github.com/Jake-Bon/card-rpg
 
 ### Enemy AI
 
-* Each opponent will have their own specially crafted deck, usually revolving around some sort of mechanic or gimmick, and will need to be able to pilot it effectively. This means they will need to be able to recognize combos and be able to play them correctly at opportune moments, while also responding to the player’s cards in the correct ways.
+* Each opponent will have their own specially crafted deck, usually revolving around some sort of mechanic or gimmick, and will need to be able to pilot it effectively. This means they will need to be able to recognize combos and be able to play them correctly at opportune moments, while also responding to the player’s cards in the correct ways. AI will pick a move using Minimax with Alpha-beta pruning.
     
 ###  LAN Network Multiplayer
 
