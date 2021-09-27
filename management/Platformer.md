@@ -19,7 +19,7 @@
 		1. GOALHERE
 		...
 1. 10/27 - 11/2
-	* Manager: NAME
+	* Manager: Kira Tsvetkova
 	* Goals:
 		1. GOALHERE
 		...
