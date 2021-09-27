@@ -34,12 +34,12 @@
 		1. GOALHERE
 		...
 1. 11/17 - 11/30
-	* Manager: NAME
+	* Manager: James Fenn
 	* Goals:
 		1. GOALHERE
 		...
 1. 12/1 - 12/7
-	* Manager: NAME
+	* Manager: Shane Josapak
 	* Goals:
 		1. GOALHERE
 		...
