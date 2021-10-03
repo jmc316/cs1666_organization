@@ -11,8 +11,13 @@
 1. 10/6 - 10/19
 	* Manager: Alvyn Berg
 	* Goals:
-		1. GOALHERE
-		...
+		1. Main: Add window borders to moving box example 
+			so that the box collides with the borders 
+			and cannot move through/past them. 
+		1. Networking team: Each person on Networking team 
+			builds a web-server, following the final 
+			project in the Rust Book
+		1. Physics Team:  Implement basic working gravity.
 1. 10/20 - 10/26
 	* Manager: NAME
 	* Goals:
