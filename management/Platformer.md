@@ -39,7 +39,7 @@
 		1. GOALHERE
 		...
 1. 12/1 - 12/7
-	* Manager: NAME
+	* Manager: Bryce Anderson
 	* Goals:
 		1. GOALHERE
 		...
