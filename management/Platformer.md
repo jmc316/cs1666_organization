@@ -34,7 +34,7 @@
 		1. GOALHERE
 		...
 1. 11/17 - 11/30
-	* Manager: NAME
+	* Manager: Greg Sack
 	* Goals:
 		1. GOALHERE
 		...
