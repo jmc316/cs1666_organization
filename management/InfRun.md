@@ -11,8 +11,9 @@
 1. 10/6 - 10/19
 	* Manager: Dane Halle
 	* Goals:
-		1. GOALHERE
-		...
+		1. Simple movement demo with proper states for the game 
+		2. Procedual Generation work 
+		3. Physics engine work
 1. 10/20 - 10/26
 	* Manager: Mateen Kasim
 	* Goals:
