@@ -25,7 +25,7 @@
 				 1. other player animations for drawing
 				 1. other player playing card
 				 1. template for interactions set up to make new A.I.'s quick to visually set up
-		...
+	
 1. 10/20 - 10/26
 	* Manager: Gabe Balannik
 	* Goals:
