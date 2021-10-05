@@ -11,7 +11,7 @@
 1. 10/6 - 10/19
 	* Manager: Merrick Johnston
 	* Goals:
-		1. set up backend data structures to impliment the card game
+		1. set up backend data structures to impliment the card game. this includes storage of players, cards in hand, health, mana, cards in deck
 		...
 1. 10/20 - 10/26
 	* Manager: Gabe Balannik
