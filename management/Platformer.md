@@ -11,9 +11,9 @@
 1. 10/6 - 10/19
 	* Manager: Alvyn Berg
 	* Goals:
-		1. Main: Add window borders to moving box example 
-			so that the box collides with the borders 
-			and cannot move through/past them. 
+		1. Main: Spawn player image and move it around 
+                        a bordered level to collide with a 
+                        'level-cleared' hit-box. 
 		1. Networking team: Each person on Networking team 
 			builds a web-server, following the final 
 			project in the Rust Book
