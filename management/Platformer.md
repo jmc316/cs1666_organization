@@ -29,7 +29,7 @@
 		1. GOALHERE
 		...
 1. 11/10 - 11/16
-	* Manager: NAME
+	* Manager: Evan Moran
 	* Goals:
 		1. GOALHERE
 		...
