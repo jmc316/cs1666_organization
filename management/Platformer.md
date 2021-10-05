@@ -29,7 +29,7 @@
 		1. GOALHERE
 		...
 1. 11/3 - 11/9
-	* Manager: NAME
+	* Manager: Austin Brothers
 	* Goals:
 		1. GOALHERE
 		...

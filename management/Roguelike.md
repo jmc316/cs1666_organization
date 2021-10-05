@@ -19,17 +19,17 @@
 		1. GOALHERE
 		...
 1. 10/27 - 11/2
-	* Manager: NAME
+	* Manager: Victor Mui
 	* Goals:
 		1. GOALHERE
 		...
 1. 11/3 - 11/9
-	* Manager: NAME
+	* Manager: Daniel Stirling
 	* Goals:
 		1. GOALHERE
 		...
 1. 11/10 - 11/16
-	* Manager: NAME
+	* Manager: Davon Allensworth
 	* Goals:
 		1. GOALHERE
 		...
