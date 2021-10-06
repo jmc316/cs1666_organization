@@ -14,7 +14,7 @@
 		1. GOALHERE
 		...
 1. 10/20 - 10/26
-	* Manager: NAME
+	* Manager: Zirui Huang
 	* Goals:
 		1. GOALHERE
 		...
@@ -39,7 +39,7 @@
 		1. GOALHERE
 		...
 1. 12/1 - 12/7
-	* Manager: NAME
+	* Manager: Yihua Pu
 	* Goals:
 		1. GOALHERE
 		...
