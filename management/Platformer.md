@@ -11,8 +11,14 @@
 1. 10/6 - 10/19
 	* Manager: Alvyn Berg
 	* Goals:
-		1. GOALHERE
-		...
+		1. Main: Spawn player image and move it around 
+                        the window to collide with stone platforms 
+                        and a 'level-cleared' hit-box. 
+		1. Networking team: Each person on Networking team 
+			builds a web-server, following the final 
+			project in the Rust Book
+		1. Physics Team:  Implement basic gravity and basic 
+                        movement (acceleration and jumping)
 1. 10/20 - 10/26
 	* Manager: Jake Sweeney
 	* Goals:
