@@ -3,10 +3,10 @@
 ## Presentation 1: platformer
 
 * Overview of what physics is in games, what is a physics engine, how physics is implemented in games typically : 35 minutes
-	* Classical mechanics/Newtonian physics: Newton’s laws for gravity, etc			10 minutes
-	* Rigid-body dynamics: kinematics, Newton's laws of motion, collisions			10 minutes
-	* Soft-body dynamics: fluid dynamics, Navier–Stokes equations, Particle systems		10 minutes
-	* How we expect to implement basic physics into our game				5 minutes
+	* Classical mechanics/Newtonian physics: Newton’s laws for gravity, etc			(10 minutes)
+	* Rigid-body dynamics: kinematics, Newton's laws of motion, collisions			(10 minutes)
+	* Soft-body dynamics: fluid dynamics, Navier–Stokes equations, Particle systems		(10 minutes)
+	* How we expect to implement basic physics into our game				(5 minutes)
 * How we expect our portal mechanics to work : 10 minutes
 	* Projectiles
 	* Overview, location moving
