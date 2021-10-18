@@ -2,7 +2,7 @@
 
 ## Presentation 1: Tactical RPG
 
-* Overview of AI in Games Overview (10 minutes)
+* Overview of AI in Games (10 minutes)
 	* Definition of AI
 	* Goals of AI
 	    * Making a fair and enjoyable experience
