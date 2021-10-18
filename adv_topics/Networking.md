@@ -2,7 +2,7 @@
 
 ## Presentation 1
 
-* Networking and Games [Jumps off of end of Networking 0]
+* Networking and Games [Jumps off of end of Networking 0]  (estimated time: 10 min)
 
 	* Focus on broad game issues
 
@@ -14,7 +14,7 @@
 
 		* Rollback vs Delay-Based
 
-* TCP structure and implementation in Rust
+* TCP structure and implementation in Rust  (estimated time: 20 min)
 
 	* Basic building blocks
 
@@ -24,7 +24,7 @@
 
 		* pros cons
 
-* Applications to our game [client - client]
+* Applications to our game [client - client]  (estimated time: 15 min)
 
 	* Explain differences between real time and turn based
 
